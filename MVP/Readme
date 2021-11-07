@@ -1,0 +1,15 @@
+MVP Of default of credit card clients
+
+
+The Minimum Viable Product (MVP) is supplied in this folder.
+The Jupyter notebook explains the first steps in detail. In addition to the EDA phase, the data has been investigated.
+
+
+The following is a summary of the MVP notebook:
+Reading Dataset
+test if the dataset have missing value
+Analysi Data
+Split Data
+
+To complete the project, there are a few more steps to take:
+To classify the data, use several models.
