@@ -40,14 +40,14 @@ Decision Tree Classifier:
 
 For SVM:
 
-Accuracy: 0.818
+Accuracy 0.818
 
 ![image](https://user-images.githubusercontent.com/93055112/142242897-3518fbf8-246d-47ab-a921-ba00b6b306aa.png)
 
 
 Naive Bayes:
 
-Accuracy: 0.692
+Accuracy 0.692
 
 ![image](https://user-images.githubusercontent.com/93055112/142243056-c72e4490-0498-4a9d-bfa7-36c63d334f9d.png)
 
